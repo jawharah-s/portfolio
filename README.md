@@ -1,4 +1,4 @@
-This folder contains SQL Server scripts created for my CIS 310 assignment using the StayWell dataset. 
+This folder contains SQL Server scripts created for my CIS 310 class using the StayWell dataset. 
 I created and managed multiple tables, defined primary keys, inserted records, and verified table structures through metadata queries.
 The scripts show my ability to:
 
